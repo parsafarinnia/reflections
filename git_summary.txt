@@ -1,0 +1,4 @@
+--with "ls -a" system files that start with . will also be shown
+--with "git init" you initialize a .git file
+--"git status"
+-- there is an staging area that before you want to add changes to git you should add them to that staging area which the command for it is "git add " followed with the files name
