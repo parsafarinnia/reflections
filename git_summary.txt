@@ -7,3 +7,8 @@
 --"git --staged" will show you the difference of staging area and reposiroty
 --"git reset --hard" will revert all changes in staging area and working repository so BE AWARE when you're using this command because you can't go back to changes that where deleted.
 hello
+-- you should run "git checkout master" before you commit after checking out an older commit
+--"git branch" checking available branches
+--"git branch "followed by name adds another branch 
+--"git checkout"followed by name of a branch will checkout an existing branch
+##new branch
