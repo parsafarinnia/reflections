@@ -1,4 +1,9 @@
 --with "ls -a" system files that start with . will also be shown
 --with "git init" you initialize a .git file
 --"git status"
--- there is an staging area that before you want to add changes to git you should add them to that staging area which the command for it is "git add " followed with the files name
+-- there is an staging area that before you want to add changes to git you should add them to that staging area which the command for it is "git add " followed with the files name, and as you see when you run git status it will show that the added file is track and is listed under as changes to be committed
+??git config --global core.editor "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl -n -w"??--> run on macbook air
+--when you run "git diff" without following it with IDs it will show you the difference of working directory and staging area
+--"git --staged" will show you the difference of staging area and reposiroty
+--"git reset --hard" will revert all changes in staging area and working repository so BE AWARE when you're using this command because you can't go back to changes that where deleted.
+hello
