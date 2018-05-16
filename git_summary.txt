@@ -12,3 +12,5 @@ hello
 --"git branch "followed by name adds another branch 
 --"git checkout"followed by name of a branch will checkout an existing branch
 ##new branch
+ "git log --graph --oneline <name of the branches you WANT TO see >" will show you a graph of branches you asked for
+ "git checkout <branch name>" will make your current branch,the one that you get your status and add and commit to it, 
